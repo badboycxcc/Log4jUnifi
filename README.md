@@ -1,3 +1,9 @@
+# 参考文章
+
+https://www.sprocketsecurity.com/blog/another-log4j-on-the-fire-unifi
+
+
+
 # Log4jUnifi
 Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
 
